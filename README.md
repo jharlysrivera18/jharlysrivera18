@@ -1,23 +1,28 @@
 
-## 👋 Hola, soy Jharlys Rivera  
+## 👋 Hi, I'm Jharlys Rivera
 
-🎓 Estudiante en formación y apasionada por el aprendizaje continuo.  
-💻 Interesada en tecnología, desarrollo y proyectos educativos.  
-🌱 Actualmente fortaleciendo mis conocimientos en herramientas digitales y programación básica.  
+I am a student in training with a strong interest in programming and technology. I am focused on continuous learning and developing my skills in software development, using digital tools to build practical and meaningful solutions.
 
-### 🚀 Sobre mí
-- 🔭 Estoy trabajando en proyectos académicos y personales  
-- 📚 Estoy aprendiendo sobre desarrollo web y uso de GitHub  
-- 🤝 Me interesa colaborar en proyectos educativos y sociales  
-- 💬 Pregúntame sobre trabajos académicos, aprendizaje digital y organización de proyectos  
+### 💻 About Me
+I am currently learning the fundamentals of programming and strengthening my knowledge in version control using Git and GitHub. I enjoy working on academic and personal projects that help me grow as a developer and improve my problem-solving skills.
 
-### 🛠️ Habilidades
-- Uso básico de Git y GitHub  
-- Herramientas ofimáticas  
-- Trabajo en equipo  
-- Responsabilidad y compromiso  
+### 🚀 What I'm Working On
+- Learning programming fundamentals  
+- Practicing Git and GitHub for version control  
+- Developing small academic and personal projects  
 
-### 📫 Contáctame
-- ✉️ GitHub: [@jharlysrivera18](https://github.com/jharlysrivera18)
+### 🛠️ Technical Skills
+- Basic programming concepts  
+- Git & GitHub  
+- Logical thinking and problem solving  
+- Teamwork and collaboration  
 
-✨ Siempre con ganas de aprender algo nuevo.
+### 🎯 Interests
+- Software development  
+- Web development  
+- Technology and innovation  
+
+### 📫 Contact
+- GitHub: [@jharlysrivera18](https://github.com/jharlysrivera18)
+
+✨ Committed to learning, building, and improving every day.
