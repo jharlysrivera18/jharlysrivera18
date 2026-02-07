@@ -7,9 +7,11 @@ I am a student in training with a strong interest in programming and technology.
 I am currently learning the fundamentals of programming and strengthening my knowledge in version control using Git and GitHub. I enjoy working on academic and personal projects that help me grow as a developer and improve my problem-solving skills.
 
 ### 🚀 What I'm Working On
-- Learning programming fundamentals  
-- Practicing Git and GitHub for version control  
-- Developing small academic and personal projects  
+- I am learning programming fundamentals  
+- I am practicing Git and GitHub for repository management and version control  
+- I am developing small academic and personal projects  
+- I am strengthening leadership and communication skills through teamwork  
+- I am improving my ability to learn quickly, work with patience, and adapt to different environments
 
 ### 🛠️ Technical Skills
 - Basic programming concepts  
