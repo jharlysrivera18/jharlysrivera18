@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Jharlys Rivera
+## 👋 Hi, I'm Jharlys Rivera Velasquez
 
 I am a student in training with a strong interest in programming and technology. I am focused on continuous learning and developing my skills in software development, using digital tools to build practical and meaningful solutions.
 
