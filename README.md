@@ -25,6 +25,7 @@ I am currently learning the fundamentals of programming and strengthening my kno
 - Technology and innovation  
 
 ### 📫 Contact:
+
 - GitHub: [@jharlysrivera18](https://github.com/jharlysrivera18)
 
 ✨ Committed to learning, building, and improving every day.
